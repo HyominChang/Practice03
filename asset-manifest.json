@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Practice03/static/css/main.a617e044.chunk.css",
+    "main.js": "/Practice03/static/js/main.162609cc.chunk.js",
+    "main.js.map": "/Practice03/static/js/main.162609cc.chunk.js.map",
+    "runtime-main.js": "/Practice03/static/js/runtime-main.9bc3f9b3.js",
+    "runtime-main.js.map": "/Practice03/static/js/runtime-main.9bc3f9b3.js.map",
+    "static/js/2.f443a772.chunk.js": "/Practice03/static/js/2.f443a772.chunk.js",
+    "static/js/2.f443a772.chunk.js.map": "/Practice03/static/js/2.f443a772.chunk.js.map",
+    "static/js/3.67edf929.chunk.js": "/Practice03/static/js/3.67edf929.chunk.js",
+    "static/js/3.67edf929.chunk.js.map": "/Practice03/static/js/3.67edf929.chunk.js.map",
+    "index.html": "/Practice03/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Practice03/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f443a772.chunk.js.LICENSE.txt": "/Practice03/static/js/2.f443a772.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Practice03/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc3f9b3.js",
+    "static/js/2.f443a772.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.162609cc.chunk.js"
+  ]
+}
